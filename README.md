@@ -110,7 +110,6 @@ Assistant System Engineer at TCS | Microsoft Fabric Data Engineer (DP-700) | Dat
 ---
 
 ## 📈 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=aman-krsingh&show_icons=true)
 
 ![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=aman-krsingh&show_icons=true)
 
