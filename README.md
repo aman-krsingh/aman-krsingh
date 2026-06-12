@@ -119,7 +119,7 @@ Assistant System Engineer at TCS | Microsoft Fabric Data Engineer (DP-700) | Dat
 
 ## 🌐 Connect With Me
 
-💼 LinkedIn: [YOUR_LINKEDIN_URL](https://www.linkedin.com/in/amankrsingh15/)
+💼 LinkedIn: https://www.linkedin.com/in/amankrsingh15/
 
 📧 Email: amansingh21510@gmail.com
 
